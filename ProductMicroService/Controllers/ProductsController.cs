@@ -27,8 +27,8 @@ public class ProductsController : ControllerBase
         return Ok(product);
     }
 
-    // POST: api/products/filter
-    [HttpPost("filter")]
+    // POST: api/products
+    [HttpPost]
     public async Task<ActionResult> GetProducts([FromBody] ProductFilterDto filter, CancellationToken cancellationToken)
     {
         if (filter.Page <= 0 || filter.PageSize <= 0)

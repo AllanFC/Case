@@ -34,13 +34,13 @@ public class APIGateway : ControllerBase
         return StatusCode((int)response.StatusCode, await response.Content.ReadAsStringAsync(cancellationToken));
     }
 
-    // POST: api/apigateway/products/filter
-    [HttpPost("products/filter")]
+    // POST: api/apigateway/products
+    [HttpPost("products")]
     public async Task<IActionResult> GetProducts([FromBody] ProductFilterDto filter, CancellationToken cancellationToken)
     {
         var client = _httpClientFactory.CreateClient();
         var baseUrl = _configuration["ProductsMicroservice:BaseUrl"];
-        var response = await client.PostAsJsonAsync($"{baseUrl}/api/products/filter", filter, cancellationToken);
+        var response = await client.PostAsJsonAsync($"{baseUrl}/api/products", filter, cancellationToken);
 
         if (response.IsSuccessStatusCode)
         {
