@@ -14,3 +14,4 @@ How to run locally:
 - IDE (VS or VS code)
 - SQL server
 - Add the connectionstring to the database in the appsettings.Development.json and local.setting.json or secrets for the different projects
+- Run migration
