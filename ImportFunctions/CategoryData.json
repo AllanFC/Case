@@ -1,0 +1,152 @@
+[
+  {
+    "id": "cat-01",
+    "name": "Laptops",
+    "description": "Portable computers for all your computing needs."
+  },
+  {
+    "id": "cat-02",
+    "name": "Smartphones",
+    "description": "Mobile devices to keep you connected."
+  },
+  {
+    "id": "cat-03",
+    "name": "Tablets",
+    "description": "Compact and powerful devices for work and play."
+  },
+  {
+    "id": "cat-04",
+    "name": "Wearables",
+    "description": "Smart devices you can wear, like watches and fitness trackers."
+  },
+  {
+    "id": "cat-05",
+    "name": "Audio",
+    "description": "Devices for listening to music and other audio."
+  },
+  {
+    "id": "cat-06",
+    "name": "Gaming",
+    "description": "Consoles, accessories, and other gaming equipment."
+  },
+  {
+    "id": "cat-07",
+    "name": "Smart Home",
+    "description": "Devices to make your home smart and connected."
+  },
+  {
+    "id": "cat-08",
+    "name": "Televisions",
+    "description": "TVs of various sizes and technologies."
+  },
+  {
+    "id": "cat-09",
+    "name": "Cameras",
+    "description": "Devices for capturing photos and videos."
+  },
+  {
+    "id": "cat-10",
+    "name": "Networking",
+    "description": "Routers, modems, and other networking equipment."
+  },
+  {
+    "id": "cat-11",
+    "name": "E-Readers",
+    "description": "Devices designed for reading digital books."
+  },
+  {
+    "id": "cat-12",
+    "name": "Appliances",
+    "description": "Household appliances with advanced features."
+  },
+  {
+    "id": "cat-13",
+    "name": "Accessories",
+    "description": "Additional equipment for your electronic devices."
+  },
+  {
+    "id": "cat-14",
+    "name": "VR and AR",
+    "description": "Virtual and augmented reality devices."
+  },
+  {
+    "id": "cat-15",
+    "name": "Drones",
+    "description": "Remote-controlled aerial devices."
+  },
+  {
+    "id": "cat-16",
+    "name": "Fitness",
+    "description": "Devices to monitor and improve your health."
+  },
+  {
+    "id": "cat-17",
+    "name": "Transport",
+    "description": "Electric scooters and other personal transportation."
+  },
+  {
+    "id": "cat-18",
+    "name": "Office",
+    "description": "Electronics designed for the office environment."
+  },
+  {
+    "id": "cat-19",
+    "name": "Home Security",
+    "description": "Devices to keep your home secure."
+  },
+  {
+    "id": "cat-20",
+    "name": "Charging",
+    "description": "Devices for charging your electronics."
+  },
+  {
+    "id": "cat-21",
+    "name": "Power & Energy",
+    "description": "Equipment for powering electronic devices."
+  },
+  {
+    "id": "cat-22",
+    "name": "Smart Mirrors",
+    "description": "Mirrors with smart technology."
+  },
+  {
+    "id": "cat-23",
+    "name": "High-Speed Internet",
+    "description": "Devices to ensure fast internet connections."
+  },
+  {
+    "id": "cat-24",
+    "name": "Wearable Tech",
+    "description": "Advanced technology you can wear."
+  },
+  {
+    "id": "cat-25",
+    "name": "Bluetooth Devices",
+    "description": "Various devices that use Bluetooth technology."
+  },
+  {
+    "id": "cat-26",
+    "name": "Health",
+    "description": "Devices focused on health and wellness."
+  },
+  {
+    "id": "cat-27",
+    "name": "Smart Transportation",
+    "description": "Advanced transportation options."
+  },
+  {
+    "id": "cat-28",
+    "name": "Electric Vehicles",
+    "description": "Environmentally-friendly transportation options."
+  },
+  {
+    "id": "cat-29",
+    "name": "Computer Peripherals",
+    "description": "Additional devices for your computer."
+  },
+  {
+    "id": "cat-30",
+    "name": "Virtual Assistants",
+    "description": "Devices with smart assistant technology."
+  }
+]
